@@ -50,6 +50,11 @@
 
 	.green_text {
 		color: #8BC542;
+		font-weight: bold;
+	}
+
+	.text_center {
+		text-align: center;
 	}
 
 /* Box Model */
