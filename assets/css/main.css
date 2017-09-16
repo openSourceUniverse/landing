@@ -48,6 +48,10 @@
 		-webkit-text-size-adjust: none;
 	}
 
+	.green_text {
+		color: #8BC542;
+	}
+
 /* Box Model */
 
 	*, *:before, *:after {
